@@ -48,8 +48,4 @@ sup { top:-0.5rem; }
 
 abbr[title] { text-decoration:underline; -webkit-text-decoration:underline dotted; text-decoration:underline dotted; }
 
-summary { display:list-itrem; }
-
-legend { padding:0; }
-
 .hidden, [hidden] { display:none!important; }
