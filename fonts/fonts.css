@@ -1,1 +1,44 @@
+/* POKEMON FONTS */
 
+/* diamond/pearl/platinum */
+@font-face {
+font-family:'Power Clear';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-clear.ttf); }
+@font-face {
+font-family:'Power Clear Bold';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-clear-bold.ttf); }
+@font-face {
+font-family:'Pokemon DPPT';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pkmn-dppt.ttf); }
+
+/* emerald */
+@font-face {
+font-family:'Power Green';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green.ttf); }
+@font-face {
+font-family:'Power Green Narrow';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green-narrow.ttf); }
+@font-face {
+font-family:'Power Green Small';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green-small.ttf); }
+
+/* firered/leafgreen */
+@font-face {
+font-family:'Power Red and Green';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-green.ttf); }
+
+/* ruby/sapphire */
+@font-face {
+font-family:'Power Red and Blue';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-blue.ttf); }
+@font-face {
+font-family:'Power Red and Blue Intl';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-blue-intl.ttf); }
+@font-face {
+font-family:'Pokemon RS';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pkmn-rs.ttf); }
+
+/* gameboy */
+@font-face {
+font-family:'Pokedex';
+src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pokedex.ttf); }
