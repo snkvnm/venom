@@ -3,7 +3,7 @@
  * licensed under CC0 -- https://creativecommons.org/publicdomain/zero/1.0/
  */
 
-@import url("https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/fonts.css");
+@import url("https://cdn.jsdelivr.net/gh/suneteri/venom/fonts.css");
 
 *, ::before, ::after { -webkit-box-sizing:border-box; box-sizing:border-box; }
 
