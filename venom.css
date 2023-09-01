@@ -11,13 +11,7 @@ html { font-family:system-ui,sans-serif; line-height:1.5; word-break:break-word;
 
 body { margin:0; padding:0; font-size:1rem; }
 
-/* removes excess margins */
-p:first-child, ul:first-child, ol:first-child, h1:first-child, h2:first-child, h3:first-child, blockquote:first-child, figure:first-child { margin-top:0; }
-p:last-child, ul:last-child, ol:last-child, h1:last-child, h2:last-child, h3:last-child, blockquote:last-child, figure:last-child { margin-bottom:0; }
-p:only-child, ul:only-child, ol:only-child, h1:only-child, h2:only-child, h3:only-child, blockquote:only-child, figure:only-child { margin:0; }
-dl dl, dl ol, dl ul, ol dl, ul dl, ol ol, ol ul, ul ol, ul ul, button, input, select, textarea { margin:0; }
-
-h1, h2, h3, h4, h5, h6 { font-weight:normal; margin:1rem 0; line-height:1.1; }
+h1, h2, h3, h4, h5, h6 { font-weight:normal; margin:1.1rem 0; line-height:1.1; }
 h1 { font-size:2.25rem; }
 h2 { font-size:2rem; }
 h3 { font-size:1.5rem; }
