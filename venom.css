@@ -1,11 +1,11 @@
 /*
- * venom.css -- https://github.com/suneteri/venom
- * licensed under CC0 -- https://creativecommons.org/publicdomain/zero/1.0/
- */
+  venom.css -- https://github.com/suneteri/venom
+  licensed under CC0 -- https://creativecommons.org/publicdomain/zero/1.0/
+*/
 
 @import url("https://cdn.jsdelivr.net/gh/suneteri/venom/fonts.css");
 
-*, ::before, ::after { -webkit-box-sizing:border-box; box-sizing:border-box; }
+*, ::before, ::after { box-sizing:border-box; }
 
 html { font-family:system-ui,sans-serif; line-height:1.5; word-break:break-word; }
 
