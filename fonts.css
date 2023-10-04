@@ -1,81 +1,126 @@
+/* SANS-SERIF ### */
+
 @font-face {
 font-family:'National Park';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/national-park.otf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/national-park.otf'); }
 @font-face {
 font-family:'National Park Bold';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/national-park-bold.otf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/national-park-bold.otf'); }
+
+/* SERIF ### */
+
+@font-face {
+font-family:'Gloock';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/gloock.ttf'); }
+
+@font-face {
+font-family:'Imbue';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/imbue.ttf'); }
+
+/* HANDWRITTEN ### */
+
+@font-face {
+font-family:'Gluten';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/gluten.ttf'); }
 
 @font-face {
 font-family:'Hinwil';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/hinwil.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/hinwil.ttf'); }
+
+/* DISPLAY ### */
 
 @font-face {
-font-family:'Maple Mono';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/maple-mono.otf'); }
-@font-face {
-font-family:'Maple Mono Bold';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/maple-mono-bold.otf'); }
-@font-face {
-font-family:'Maple Mono Italic';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/maple-mono-italic.otf'); }
+font-family:'Climate Crisis';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/climate-crisis.ttf'); }
 
 @font-face {
-font-family:'Iosevka';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/iosevka.ttf'); }
+font-family:'Grenze Gotisch';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/grenze-gotisch.ttf'); }
+
+@font-face {
+font-family:'Rubik Beastly';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/rubik-beastly.ttf'); }
+@font-face {
+font-family:'Rubik Bubbles';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/rubik-bubbles.ttf'); }
+
+@font-face {
+font-family:'Vina Sans';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/vina-sans.ttf'); }
+
+/* MONOSPACE ### */
 
 @font-face {
 font-family:'F1.8';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/F18.otf'); }
-
-@font-face {
-font-family:'m5x7';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/m5x7.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/F18.otf'); }
 
 @font-face {
 font-family:'Fallout';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/fallout.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/fallout.ttf'); }
+
+@font-face {
+font-family:'m5x7';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/m5x7.ttf'); }
+
+@font-face {
+font-family:'Maple Mono';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/maple-mono.otf'); }
+@font-face {
+font-family:'Maple Mono Bold';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/maple-mono-bold.otf'); }
+@font-face {
+font-family:'Maple Mono Italic';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/maple-mono-italic.otf'); }
+
+@font-face {
+font-family:'Iosevka';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/iosevka.ttf'); }
+
+@font-face {
+font-family:'Syne';
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/fallout.ttf'); }
 
 /* POKEMON FONTS */
 
 /* diamond/pearl/platinum */
 @font-face {
 font-family:'Power Clear';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-clear.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-clear.ttf'); }
 @font-face {
 font-family:'Power Clear Bold';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-clear-bold.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-clear-bold.ttf'); }
 @font-face {
 font-family:'Pokemon DPPT';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pkmn-dppt.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/pkmn-dppt.ttf'); }
 
 /* emerald */
 @font-face {
 font-family:'Power Green';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-green.ttf'); }
 @font-face {
 font-family:'Power Green Narrow';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green-narrow.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-green-narrow.ttf'); }
 @font-face {
 font-family:'Power Green Small';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-green-small.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-green-small.ttf'); }
 
 /* firered/leafgreen */
 @font-face {
 font-family:'Power Red and Green';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-green.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-red-green.ttf'); }
 
 /* ruby/sapphire */
 @font-face {
 font-family:'Power Red and Blue';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-blue.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-red-blue.ttf'); }
 @font-face {
 font-family:'Power Red and Blue Intl';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/power-red-blue-intl.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/power-red-blue-intl.ttf'); }
 @font-face {
 font-family:'Pokemon RS';
-src:url('https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pkmn-rs.ttf'); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/pkmn-rs.ttf'); }
 
 /* gameboy */
 @font-face {
 font-family:'Pokedex';
-src:url(https://cdn.jsdelivr.net/gh/suneteri/venom/fonts/pokedex.ttf); }
+src:url('https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts/pokedex.ttf'); }
