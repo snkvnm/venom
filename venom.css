@@ -1,19 +1,32 @@
-/*
-  venom.css -- https://github.com/suneteri/venom
-  licensed under CC0 -- https://creativecommons.org/publicdomain/zero/1.0/
-*/
-
-@import url("https://cdn.jsdelivr.net/gh/snkvnm/venom/fonts.css");
+/*! venom.css v1.0 | CCO license | https://gitlab.com/moonville/venom */
 
 *, ::before, ::after { box-sizing:border-box; }
 
-html { font-family:system-ui,sans-serif; line-height:1.5; word-break:break-word; }
+html {
+font-family:system-ui,sans-serif;
+font-size:1rem;
+line-height:1.5;
+word-break:break-word;
+--webkit-text-size-adjust:100%;
+--moz-tab-size:4; tab-size:4; }
 
-body { margin:0; padding:0; font-size:1rem; }
+body { margin:0; padding:0; }
 
-h1, h2, h3, h4, h5, h6 { font-weight:normal; margin:1.1rem 0; line-height:1.1; }
-h1 { font-size:2.25rem; }
-h2 { font-size:2rem; }
+a { color:inherit; background-color:transparent; }
+
+b, strong { font-weight:bolder; }
+
+small { font-size:80%; }
+
+sub, sup { position:relative; font-size:75%; line-height:0; vertical-align:baseline; }
+sub { bottom:-0.25rem; }
+sup { top:-0.5rem; }
+
+svg:not([fill]) { fill:currentColor; }
+
+h1, h2, h3, h4, h5, h6 { margin:1.1rem 0; font-weight:600; line-height:1.1; }
+h1 { font-size:2rem; }
+h2 { font-size:1.75rem; }
 h3 { font-size:1.5rem; }
 h4 { font-size:1.25rem; }
 h5 { font-size:1rem; }
@@ -22,27 +35,36 @@ h6 { font-size:1rem; }
 p, ol, ul { margin:1rem 0; }
 nav ol, nav ul { list-style:none; padding:0; }
 
-code, pre, kbd, samp { font-family:ui-monospace,monospace; }
+img, svg, audio, video, iframe, canvas { vertical-align:middle; }
+img, video { margin:0; padding:0; height:auto; max-width:100%; border:none; }
+iframe { border:none; }
+
+code, pre, kbd, samp { font-family:ui-monospace,monospace; font-size:inherit; }
 
 table { text-indent:0; border-color:inherit; }
 
-img, svg, audio, video, iframe, canvas { vertical-align:middle; }
-img, video { margin:0; padding:0; height:auto; max-width:100%; border:none; }
-svg:not([fill]) { fill:currentColor; }
-iframe { border:none; }
+input, button, textarea, select { margin:0; font:inherit; font-size:100%; line-height:1.15; }
+button, select { text-transform:none; }
+button, [type='button'], [type='reset'], [type='submit'] { --webkit-appearance:button; }
 
-hr { margin:1rem 0; height:0; overflow:visible; }
+legend { padding:0; }
 
-b, strong { font-weight:bolder; }
-a { color:inherit; background-color:transparent; }
-small { font-size:80%; }
-sub, sup { position:relative; font-size:75%; line-height:0; vertical-align:baseline; }
-sub { bottom:-0.25rem; }
-sup { top:-0.5rem; }
+summary { display:list-item; }
 
-input, button, textarea, select { font:inherit; }
+progress { vertical-align:baseline; }
+
+hr { margin:1rem 0; height:0; color:inherit; overflow:visible; }
 
 .hidden, [hidden] { display:none!important; }
+
+::-moz-focus-inner { border-style:none; padding:0; }
+:-moz-focusring { outline:1px dotted ButtonText; }
+:-moz-ui-invalid { box-shadow:none; }
+
+::-webkit-search-decoration { -webkit-appearance:none; }
+::-webkit-file-upload-button { -webkit-appearance: button; font:inherit; }
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height:auto; }
+[type='search'] { -webkit-appearance: textfield; outline-offset: -2px; }
 
  /* accessibility */
 
